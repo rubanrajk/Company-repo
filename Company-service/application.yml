@@ -21,8 +21,7 @@ spring:
 logging:
       level:
         com.hazelcast: off    
-server:
-  port: 5090
+
   
     
   
